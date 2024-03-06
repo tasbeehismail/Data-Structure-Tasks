@@ -1,6 +1,6 @@
 # Descreption of Assignment:
 **All implementations should work with differrent data types**
-
+---------------
 ### Task-1
 Write an implementation of double linked list that have the following operation: 
 - Add an element in the front of the linked list
@@ -13,7 +13,7 @@ Write an implementation of double linked list that have the following operation:
 - Reverse the Linked list
 - Check if list is empty
 - Get list size
-
+---------------
 ### Task-2
 Write an implementation of a stack using an array (array should not have fixed size) and have the following operations:
 - Push element at the top of the stack
@@ -21,7 +21,7 @@ Write an implementation of a stack using an array (array should not have fixed s
 - Remove the element at the top of the stack
 - Check if stack is empty
 - Get stack size
-
+---------------
 ### Task-3
 Write an implementation of a stack using linked list and have the following operations:
 - Push element at the top of the stack
@@ -29,7 +29,7 @@ Write an implementation of a stack using linked list and have the following oper
 - Remove the element at the top of the stack
 - Check if stack is empty
 - Get stack size
-
+---------------
 ### Task-4
 Write an implementation of a circular queue using an array of fixed size 20 and have the following operations:
 - Push element at the back of the queue
@@ -37,7 +37,7 @@ Write an implementation of a circular queue using an array of fixed size 20 and 
 - Remove the element at the top of the queue
 - Check if queue is empty
 - Get queue size
-
+---------------
 ### Task-5
 Write an implementation of a queue using linked list and have the following operations: 
 - Push element at the back of the queue
@@ -45,7 +45,7 @@ Write an implementation of a queue using linked list and have the following oper
 - Remove the element at the top of the queue
 - Check if queue is empty
 - Get queue size
-
+---------------
 ### Task-6
 Wite an implementation of the pop_back function  in vector and prove its amortized complexity using potential function.
 
