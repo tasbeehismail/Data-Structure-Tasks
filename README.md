@@ -47,4 +47,5 @@ Write an implementation of a queue using linked list and have the following oper
 
 ### Task-6
 Wite an implementation of the pop_back function  in vector and prove its amortized complexity using potential function.
-read:- ![Potential function article](https://www.geeksforgeeks.org/potential-method-in-amortized-analysis/)
+
+read:- [Potential function article](https://www.geeksforgeeks.org/potential-method-in-amortized-analysis/)
