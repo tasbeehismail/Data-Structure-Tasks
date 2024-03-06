@@ -1,4 +1,5 @@
 # Descreption of Assignment:
+**All implementations should work with differrent data types**
 
 ### Task-1
 Write an implementation of double linked list that have the following operation: 
