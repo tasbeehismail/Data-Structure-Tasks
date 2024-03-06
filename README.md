@@ -1,7 +1,7 @@
 # Data Structure Assignment
 Tasks Completed at level 3 problem-solving training with ICPC Damanhour community (3 Jan 2024)
 
-## Descreption of it:
+## Descreption:
 **All implementations should work with differrent data types**
 
 ### Task-1
